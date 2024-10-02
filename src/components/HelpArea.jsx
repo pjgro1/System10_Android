@@ -4,7 +4,7 @@ import './HelpArea.css';
 const HELP_ITEMS = [
   {
     id: 'h1',
-    title: 'What is Plutora? ',
+    title: 'What is Plutora?',
     text: 'Plutora is a Release and Environments Management toolset',
   },
   {
